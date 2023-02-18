@@ -1,6 +1,9 @@
-
+body {
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+};
 header {
-    border-color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: rgb(0, 255, 200);
     border-width:  2px;
     border-style: solid;
     }
