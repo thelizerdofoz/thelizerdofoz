@@ -1,7 +1,7 @@
-body {
+Body {
     font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 };
-header {
+Header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-color: blue;
     border-width:  2px;
