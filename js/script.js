@@ -5,22 +5,22 @@ const myImages = [
         alt: "black and blue frog"
     },
     {
-        src: "/shiny tapu koko.avif",
+        src: "/images/shiny tapu koko.avif",
         description: "4 best shiny",
         alt: "black and orange shell"
     },
     {
-        src: "/shiny zeraora.webp",
+        src: "/images/shiny zeraora.webp",
         description: "THE BEST SHINY",
         alt: "white and blue cat"
     },
     {
-        src: "shiny.jpg",
+        src: "/images/shiny.jpg",
         description: "3 best shiny",
         alt: "green dargon waving to you"
     },
     {
-        src: "shiny.Png",
+        src: "/images/shiny.Png",
         description: "5 best shiny",
         alt: "a black and blue sand castle"
     }   
