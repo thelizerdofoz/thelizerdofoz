@@ -16,7 +16,7 @@ const myImages = [
     },
     {
         src: "shiny.jpg",
-        description: "3 best shiny"
+        description: "3 best shiny",
         alt: "green dargon waving to you"
     },
     {
