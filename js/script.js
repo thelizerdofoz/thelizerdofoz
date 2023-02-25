@@ -20,7 +20,7 @@ const myImages = [
         alt: "green dargon waving to you"
     },
     {
-        src: "shiny.png",
+        src: "shiny.Png",
         description: "5 best shiny",
         alt: "a black and blue sand castle"
     }   
